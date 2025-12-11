@@ -320,15 +320,12 @@ MIT - Feel free to use and modify for personal or commercial projects
 
 ## 👥 Authors
 
-- **Friday** - Product Owner & Lead Developer
-- **AI Contributors** - GPT-4, Claude, Copilot
+- **Sohom** - Product Owner & Lead Developer
 
 ## 🙋 Support & Feedback
 
-- 📧 Email: support@chatgptwrapped.com
+- 📧 Email: sohomchatterjee07@gmail.com
 - 🐛 Issues: GitHub Issues
-- 💬 Discussions: GitHub Discussions
-- 🐦 Twitter: @ChatGPTWrapped
 
 ---
 
@@ -342,4 +339,3 @@ MIT - Feel free to use and modify for personal or commercial projects
 📱 **Mobile Ready** - Perfect on any device  
 🌐 **Shareable** - Instagram-ready export formats  
 
-**Built with ❤️ using cutting-edge AI technology**
