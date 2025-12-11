@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt-wrapped",
+  "version": "1.0.0",
+  "description": "Spotify Wrapped-style analytics for ChatGPT conversations",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "analytics"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace=frontend\" \"npm run dev --workspace=backend\"",
+    "build": "npm run build --workspace=frontend && npm run build --workspace=backend",
+    "test": "npm test --workspace=frontend && npm test --workspace=backend",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "eslint": "^8.52.0"
+  }
+}

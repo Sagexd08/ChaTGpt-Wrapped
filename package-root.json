@@ -1,0 +1,18 @@
+{
+  "name": "chatgpt-wrapped",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "chatgpt",
+    "analytics",
+    "wrapped",
+    "spotify-wrapped",
+    "ai",
+    "sentiment-analysis"
+  ],
+  "author": "Friday",
+  "license": "MIT"
+}
